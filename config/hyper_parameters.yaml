@@ -1,0 +1,9 @@
+batch_size: 64
+
+l2_reg_lambda: 1.0e-5
+
+momentum: 0.9
+
+lr: 1.0e-3
+
+max_epochs: 100
